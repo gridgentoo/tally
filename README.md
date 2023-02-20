@@ -1,3 +1,6 @@
+Original repository.    
+https://github.com/uber-go/tally   
+
 # :heavy_check_mark: tally [![GoDoc][doc-img]][doc] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov]
 
 Fast, buffered, hierarchical stats collection in Go.
